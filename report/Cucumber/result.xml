@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.263" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Forms input details" name="User able to enter the details Success fully" time="12.997">
+<system-out><![CDATA[
+Given User click on Marketing Department....................................passed
+And User should able to click on Sales......................................passed
+And User should ble to click on Customer Service............................passed
+And User should enter the Subject as " Software_Details"....................passed
+And User should enter the E-mail Addres as "Demo@gmail.com".................passed
+And User should enter the Text Box Field as "Position"......................passed
+And User should enter the Text Box - Multi Line " Easy-to-create surveys and forms ".passed
+And User should select the dropdown.........................................passed
+And User Should Select the date.............................................passed
+When User Click on Submitbutton.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
